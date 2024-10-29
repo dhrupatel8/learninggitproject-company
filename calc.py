@@ -8,4 +8,5 @@ def multiply(a,b):
 	pass
 
 def divide(a,b):
-	pass
+	# Adding the divide function
+	return a/b
